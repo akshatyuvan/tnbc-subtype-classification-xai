@@ -1,0 +1,26 @@
+# Dataset — download from Mendeley, do not commit
+data/*.csv
+data/*.xlsx
+data/*.doc
+
+# Credentials
+.env
+*.token
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+catboost_info/
+*.pkl
+*.joblib
