@@ -46,8 +46,8 @@ No-information rate: **0.7193**.
 ## Reproducing the results
 
 ```bash
-git clone <REPO_URL>
-cd <REPO_NAME>
+git clone https://github.com/akshatyuvan/tnbc-subtype-classification-xai.git
+cd tnbc-subtype-classification-xai
 pip install -r requirements.txt
 ```
 
